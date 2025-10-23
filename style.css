@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f5f5f5;
+  margin: 0;
+}
+
+nav {
+  background: #0077b6;
+  padding: 15px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background: #00b4d8;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#recommendation img {
+  width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
